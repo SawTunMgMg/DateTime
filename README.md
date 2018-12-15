@@ -1,2 +1,2 @@
 # DateTime
-JSON projects မ်ားမွာ date နဲ႔ hour ေတြကို timestamp ဆိုပီး ဂဏန္​းမ်ားနဲ႔ ေပးထားရင္​ ဒီ DateTime.java ေလးကို သံုးႏိုင္​ပါတယ္​ .....
+JSON projects များမှာ date နဲ့ time အတွက်ကို "timestamp" = "1357000" ဆိုပီး ဂဏန်းများနဲ့ ပေးထားရင် ဒီ DateTime.java လေးကို သုံးနိုင်ပါတယ်
